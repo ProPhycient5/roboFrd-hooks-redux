@@ -1,2 +1,1 @@
-# roboFrd-hooks-redux
-It is a sample project of react hooks and redux state managemnt.
+It is a project of robo-friends with Hooks and Redux state management.
